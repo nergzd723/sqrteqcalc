@@ -1,0 +1,10 @@
+C:\Users\king2\source\repos\sqrteqcalc\bin\Debug\sqrteqcalc.exe.config
+C:\Users\king2\source\repos\sqrteqcalc\bin\Debug\sqrteqcalc.exe
+C:\Users\king2\source\repos\sqrteqcalc\bin\Debug\sqrteqcalc.pdb
+C:\Users\king2\source\repos\sqrteqcalc\obj\Debug\sqrteqcalc.csprojAssemblyReference.cache
+C:\Users\king2\source\repos\sqrteqcalc\obj\Debug\sqrteqcalc.sqrteqsolver.resources
+C:\Users\king2\source\repos\sqrteqcalc\obj\Debug\sqrteqcalc.Properties.Resources.resources
+C:\Users\king2\source\repos\sqrteqcalc\obj\Debug\sqrteqcalc.csproj.GenerateResource.cache
+C:\Users\king2\source\repos\sqrteqcalc\obj\Debug\sqrteqcalc.csproj.CoreCompileInputs.cache
+C:\Users\king2\source\repos\sqrteqcalc\obj\Debug\sqrteqcalc.exe
+C:\Users\king2\source\repos\sqrteqcalc\obj\Debug\sqrteqcalc.pdb
